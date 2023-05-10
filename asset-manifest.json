@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/reactbrowser.bobthecorn.net/static/css/main.99f94279.css",
-    "main.js": "/reactbrowser.bobthecorn.net/static/js/main.b905b06c.js",
-    "index.html": "/reactbrowser.bobthecorn.net/index.html",
-    "main.99f94279.css.map": "/reactbrowser.bobthecorn.net/static/css/main.99f94279.css.map",
-    "main.b905b06c.js.map": "/reactbrowser.bobthecorn.net/static/js/main.b905b06c.js.map"
+    "main.css": "/static/css/main.99f94279.css",
+    "main.js": "/static/js/main.b905b06c.js",
+    "index.html": "/index.html",
+    "main.99f94279.css.map": "/static/css/main.99f94279.css.map",
+    "main.b905b06c.js.map": "/static/js/main.b905b06c.js.map"
   },
   "entrypoints": [
     "static/css/main.99f94279.css",
