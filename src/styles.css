@@ -1,0 +1,11 @@
+.Banner {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.gradient {
+  background: linear-gradient(135deg, #FFA500, #FFFF00);
+
+    margin:15px; 
+}
+    
